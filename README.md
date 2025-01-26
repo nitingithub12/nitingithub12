@@ -1,4 +1,4 @@
-# <p align="left" id="itsabhayy">💫 About Me: @itsabhayy</p>
+# <p align="left" id="itsabha">💫 About Me: @nitingithub12</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="30%">
@@ -21,18 +21,18 @@
 
 ## 📝 My Resume:
 <p align="l">
-  <a href="https://drive.google.com/file/d/1Noy-4h16NnXM6urtGq7cjnPcKK7rKeOl/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1C9gZ8tCvpZyAHNRwuaC1Ov06ISmWJOZ4/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white" style="box-shadow: 0px 0px 10px 2px rgba(0, 191, 255, 0.8);">
   </a>
 </p>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/itsabhayy)&nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsabhayy)&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsabhayy)&nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsabhayy)&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emailtoabhay01@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://leetcode.com/u/nitingithub12/)&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitin_chhattishgariha/)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-dhurve-b1493b288/)&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsab)&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ni23beccs33@cujammu.ac.in)
 
 
 # 💻 Tech Stack:
@@ -56,11 +56,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsabhayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nitingithub12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsabhayy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitingithub12&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhayy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitingithub12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -83,13 +83,13 @@
 
 
 ## 📈 LeetCode and Other Profiles:
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/itsabhayy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/nitingithub12/)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/itsabhayy)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/dhurvenitin05)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/itsabhayy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/itsaayy)
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/itsabhayy)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nitincodecheff)
 
 ---
 
