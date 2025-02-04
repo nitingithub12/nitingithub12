@@ -1,5 +1,4 @@
-# <p align="left" id="itsabha">💫 i am nitin dhurve 😁![MujikcboroSeriymujikGIF](https://github.com/user-attachments/assets/bb07ff64-436b-4c12-bd2b-533aaef8873b)
-
+# <p align="left" id="itsabha"> <h1>i am nitin dhurve 😁</h1>
 About Me:</p>
 
 <p align="center">
