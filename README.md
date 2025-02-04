@@ -1,4 +1,6 @@
-# <p align="left" id="itsabha">💫 About Me: @nitingithub12</p>
+# <p align="left" id="itsabha">💫 i am nitin dhurve 😁![MujikcboroSeriymujikGIF](https://github.com/user-attachments/assets/bb07ff64-436b-4c12-bd2b-533aaef8873b)
+
+About Me:</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="30%">
