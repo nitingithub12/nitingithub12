@@ -5,19 +5,64 @@ About Me:</p>
   <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="30%">
 </p>
 
-🔭 I’m currently working on: Advancing my skills in coding, AI, and machine learning, while exploring new projects in cybersecurity.<br>
+🚀 About Me:
+I’m a tech entrepreneur, cybersecurity specialist, and AI-driven innovator with a deep passion for networking, ethical hacking, and artificial intelligence. As the founder of TechSanskriti, my vision is to build next-generation security solutions and AI-powered applications that redefine industry standards.
 
-👯 I’m looking to collaborate on: Innovative tech projects, particularly in the fields of cybersecurity, AI, and machine learning.<br>
+With a strong foundation in cybersecurity, networking, and AI, I specialize in offensive security, secure system design, and intelligent automation. I thrive on pushing the limits of technology, breaking barriers, and developing solutions that merge AI with cybersecurity to tackle modern threats.
 
-🤝 I’m looking for help with: Expanding my knowledge in cutting-edge technologies and finding opportunities to apply my skills in real-world scenarios.<br>
+🔹 What I’m Working On:
+🚀 Leading TechSanskriti – Innovating at the intersection of AI, security, and full-stack development.
+🔐 Cybersecurity Research – Exploring advanced penetration testing, threat intelligence, and AI-driven security models.
+🤖 AI-Powered Applications – Leveraging machine learning, computer vision, and NLP for security and automation.
+🖥 Networking & Cloud Security – Specializing in network defense, cloud security (AWS, Azure), and SDN security.
+🛡 Ethical Hacking & Red Teaming – Building custom exploit scripts, testing vulnerabilities, and securing enterprise networks.
 
-🌱 I’m currently learning: Advanced Python programming, machine learning algorithms, and the latest trends in cybersecurity.<br>
+💻 Technical Mastery:
+✅ Artificial Intelligence & Cybersecurity – Developing ML-driven security tools, anomaly detection, and predictive analytics.
+✅ Offensive & Defensive Security – Ethical hacking, penetration testing (Web, Network, Wi-Fi, IoT), and malware analysis.
+✅ Advanced Networking & Infrastructure – Proficient in CCNA/CCNP, SDN, firewall configurations, and network forensics.
+✅ Full-Stack Development – Expertise in mobile & web development, building scalable, AI-integrated applications.
+✅ Cloud & DevSecOps – AWS, Azure, and Kubernetes security, CI/CD pipelines, and infrastructure hardening.
+✅ Automation & Exploit Development – Python, Bash, and PowerShell scripting for automation, security, and reverse engineering.
 
-💬 Ask me about: Coding, cybersecurity, AI, and my journey as a computer science and engineering student specializing in cybersecurity.<br>
+🔍 Cutting-Edge Interests & Collaborations:
+💡 AI-Powered Security – Integrating machine learning with cybersecurity for advanced threat detection.
+💡 Zero Trust Architecture & Network Defense – Fortifying networks with next-gen security models.
+💡 Cybersecurity Research & Red Teaming – Developing custom exploits, conducting penetration tests, and ethical hacking projects.
+💡 Blockchain & Web3 Security – Exploring smart contract security, DeFi threats, and cryptographic algorithms.
+💡 Automated Security Systems – AI-driven SOC solutions, SIEM automation, and intrusion prevention systems.
 
-⚡ Fun fact: I'm passionate about hacking and tech, always eager to discover new ways to innovate and solve problems through technology!<br>
+🎯 Advanced Learning & Specialization:
+📌 AI in Cybersecurity – Using AI/ML for anomaly detection, malware classification, and automated threat hunting.
+📌 Reverse Engineering & Exploit Development – Diving deep into binary exploitation, malware analysis, and buffer overflows.
+📌 Advanced Penetration Testing – Mastering red teaming, web app security, and wireless network attacks.
+📌 Cloud & Kubernetes Security – Enhancing AWS/Azure/GCP security with automated cloud compliance frameworks.
+📌 IoT & Automotive Security – Securing smart devices, automotive systems, and embedded hardware.
 
-📚 Education: 2nd year BTech student in Cybersecurity at CU Jammu.
+💡 Ask Me About:
+🔹 AI-Driven Cybersecurity & Automation
+🔹 Ethical Hacking, Exploit Development, and Reverse Engineering
+🔹 Red Team vs. Blue Team Security Strategies
+🔹 Cloud & Network Security (CCNA, CCNP, AWS, SDN)
+🔹 AI, Machine Learning & Intelligent Automation
+🔹 Cybersecurity Entrepreneurship & Startups
+
+⚡ Fun Facts & Personal Highlights:
+🔹 I’m an AI-driven cybersecurity innovator who enjoys breaking (and securing) systems.
+🔹 I love working on stealth security tools, AI-based intrusion detection, and dark web intelligence.
+🔹 A big believer in automation-first security – scripting, AI, and DevSecOps for rapid incident response.
+🔹 Passionate about mentorship and knowledge-sharing, helping others navigate the tech industry.
+🔹 My brain thrives on capturing the flag (CTF) competitions, red teaming challenges, and bug bounties!
+
+📚 Education & Certifications:
+🎓 BTech in Cybersecurity (2nd Year) | CU Jammu
+🏆 Certifications & Training:
+
+CCNA / CCNP (Networking & Infrastructure Security)
+Certified Ethical Hacker (CEH)
+Offensive Security Certified Professional (OSCP) [In Progress]
+AWS Cloud Security & DevSecOps Training
+Machine Learning & AI Security Specialization
 
 
 ## 📝 My Resume:
