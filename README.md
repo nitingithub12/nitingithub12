@@ -1,4 +1,4 @@
-# <p align="left" id="itsabha"> <h1>i am nitin dhurve 😁</h1>
+# <p align="left" id="itsabha"> <h1>I am NITIN DHURVE 😁</h1>
 </p>
 
 <p align="center">
